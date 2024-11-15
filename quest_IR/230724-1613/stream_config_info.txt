@@ -1,0 +1,54 @@
+Stream Name: Explore_84CF_ORN
+Stream Type: ORN
+Channel Count: 9
+Nominal Sampling Rate: 20.0
+Calculated Sampling Rate: 20.00018604285156
+Stream ID: 5
+Start Time: 96861.02401487375
+End Time: 97595.96717832766
+
+Stream Name: Explore_84CF_Marker
+Stream Type: Markers
+Channel Count: 1
+Nominal Sampling Rate: 0.0
+Calculated Sampling Rate: 0.03383339014318305
+Stream ID: 6
+Start Time: 96899.01724469259
+End Time: 97578.81905889636
+
+Stream Name: Markers
+Stream Type: Markers
+Channel Count: 1
+Nominal Sampling Rate: 0.0
+Calculated Sampling Rate: None
+Stream ID: 2
+Start Time: None
+End Time: None
+
+Stream Name: Explore_84CF_ExG
+Stream Type: ExG
+Channel Count: 8
+Nominal Sampling Rate: 1000.0
+Calculated Sampling Rate: 1000.0091789974316
+Stream ID: 3
+Start Time: 96861.00175728904
+End Time: 97595.98601087046
+
+Stream Name: IRMotionSensors
+Stream Type: IR
+Channel Count: 8
+Nominal Sampling Rate: 0.0
+Calculated Sampling Rate: 996.0198786042428
+Stream ID: 1
+Start Time: 96861.00566979105
+End Time: 97596.01108055242
+
+Stream Name: IMUData
+Stream Type: IMU
+Channel Count: 6
+Nominal Sampling Rate: 300.0
+Calculated Sampling Rate: 99.99537993630261
+Stream ID: 4
+Start Time: 96861.01135406474
+End Time: 97076.51131029999
+
