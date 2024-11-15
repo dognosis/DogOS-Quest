@@ -8,6 +8,8 @@ The dataset contains multiple file types:
 ### EEG Data
 - Files starting with `Explore_84CF_ExG_ExG_stream`
 - Contains EEG recordings during the detection sessions
+- Its 8 channel eeg data with timestamps at a sampling rate of 1000
+- 'Fz', 'Cz', 'T3', 'T4', 'P3', 'P4', 'FP1', 'FP2'
 
 ### Sniffing Behavior Data
 - IR sensor data recording Snow's sniffing activity
@@ -19,7 +21,8 @@ The dataset contains multiple file types:
 ### Marker Data
 - Files starting with `Explore_84CF_Marker_Markers_stream`
 - Contains event markers including:
-  - `sw1`: Positive marker (timestamps indicate specific events)
+  - `sw1`: Positive marker (timestamp is right after the event)(HINT: Think IR)
+  - `sw2`: False Positive marker (not relevant)
 
 ### Calibration Data
 - Files containing/starting with `calibration`
